@@ -2,11 +2,9 @@
 
 ## **Building Modern Full Stack Web and Mobile Applications**
 
-> **The Journey:** I spent half a decade selling AI and software to the world. Then, I decided I wanted to be the one building it. 
-
-In **June 2025**, I made the definitive pivot from **SDR to Software Developer**. I believe coding is a "get your hands dirty" craft, you don't learn by just watching; you learn by building. 
-
+> **The Journey:** I spent half a decade selling AI and software to the world before deciding to build it myself. In **June 2025**, I made the definitive pivot from **SDR to Software Developer**, embracing the "learn by building" philosophy.
 > Instead of fighting the syntax, I started **building in tandem with AI**; I use structured system instructions to ensure AI helps me navigate complex frameworks correctly, delivering **senior-level architectural quality** from day one.
+
 ---
 ### 🛠️ My Tech Stack...so far
 
