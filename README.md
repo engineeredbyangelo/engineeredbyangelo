@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Angelo 👋
 
-<!--
-**engineeredbyangelo/engineeredbyangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Building Modern Full Stack Web and Mobile Applications**
 
-Here are some ideas to get you started:
+> **The Journey:** I spent half a decade selling AI and software to the world. Then, I decided I wanted to be the one building it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In **June 2025**, I made the definitive pivot from **SDR to Software Developer**. I believe coding is a "get your hands dirty" craft—you don't learn by just watching; you learn by building. 
+
+> Instead of fighting the syntax, I started **building in tandem with AI**; I use structured system instructions to ensure AI helps me navigate complex frameworks correctly, delivering **senior-level architectural quality** from day one.
+---
+### 🛠️ My Tech Stack...so far
+
+| Layer | Technology | Infrastructure |
+| :--- | :--- | :--- |
+| **Mobile** | `React Native` / `Expo` | Cross-platform native performance |
+| **Web** | `React` / `Next.js` / `TS` | Scalable, type-safe interfaces |
+| **Backend** | `Supabase` | Relational data via **PostgreSQL** |
+| **Backend** | `Firebase` | Real-time **NoSQL** document storage |
+
+---
+
+### 🚀 Featured Projects
+
+#### **1. Spark Platform (Current Build)** 📱
+*The Immersive Micro-Learning Mobile App for Tech Enthusiasts.*
+* **Stack:** React Native, TypeScript, Supabase.
+* **Mission:** Turning complex tech education into digestible, interactive mobile experiences.
+
+#### **2. Nexus Web App** 🌐
+*Intelligence Database for Developers.*
+* **Stack:** React, TypeScript, Firebase.
+* **Function:** A central repository designed to organize and query developer-specific intelligence.
+
+#### **3. Ephemeral** ✈️
+*Exclusive high-end travel app for luxury pop-up events.*
+* **Focus:** Premium UI/UX and real-time event coordination.
+
+---
+
+### 🧠 Personality & Work Ethic
+
+* **SDR Grit:** I bring a sales-hustle mentality to the terminal. I don't stop until the solution is shipped.
+* **AI-Augmented:** I treat AI as a Senior Pair Programmer, using custom system instructions to maintain **Senior-level code quality**.
+* **Product-Minded:** Because I've sold software, I build with a deep empathy for the user's "Jobs to be Done."
+
+---
+
+### 📫 Let's Connect
+[**X**](https://x.com/builtbyangelo) • [**LinkedIn**](https://linkedin.com/in/angeloapplewhite) 
+
+---
