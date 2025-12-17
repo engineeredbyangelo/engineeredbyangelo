@@ -1,4 +1,4 @@
-# Hi, I'm Angelo 👋
+# Hi, I'm Angelo 👋🏾
 
 ## **Building Modern Full Stack Web and Mobile Applications**
 
