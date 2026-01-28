@@ -5,7 +5,7 @@
 > Instead of fighting syntax, I **build in tandem with AI** via structured system instructions, ensuring I navigate complex frameworks correctly to achieve **senior-level architectural quality** from day **one**.
 
 ---
-### ## 🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
+###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
 
 I specialize in building high-performance **Progressive Web Apps (PWAs)** — fast, reliable, installable web experiences that feel native. My stack emphasizes React ecosystem tools for scalable, type-safe frontends, with flexible backends and strong attention to clean, modern UI/UX.
 
