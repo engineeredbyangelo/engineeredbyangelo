@@ -1,8 +1,16 @@
 # Hi, I'm Angelo 👋🏾
 
-> **The Journey:** I spent half a decade selling AI and software to the world before deciding to build it myself. In **June 2025**, I made the definitive pivot from **SDR to Software Developer**, embracing the "learn by building" philosophy.
->
-> Instead of fighting syntax, I **build in tandem with AI** via structured system instructions, ensuring I navigate complex frameworks correctly to achieve **senior-level architectural quality** from day **one**.
+## About Me
+
+For over 3.5 years, I worked as an SDR, selling AI and software solutions to companies around the world. I loved the hustle of understanding customer needs, communicating value, and closing deals, but I increasingly felt the pull to create the technology I was pitching.
+
+In **June 2025**, I made the pivot: from salesperson to solo developer.
+
+The mindset shift has been profound. Sales taught me to think in outcomes and relationships; building code is teaching me precision, patience, and systems thinking. I’m learning that progress comes less from perfect understanding upfront and more from shipping, breaking, and iterating.
+
+I learn primarily by building real projects from scratch. Alongside that, I deepen fundamentals on platforms like **Brilliant.org** and practice by forking open-source repositories, studying their structure, and experimenting with improvements.
+
+Seven months in, I still feel like I’m just getting started, but every deploy reinforces the decision to make this change. I’m here to keep learning publicly, shipping consistently, and turning ideas into working products.
 
 ---
 ###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
