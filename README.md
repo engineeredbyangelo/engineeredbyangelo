@@ -19,25 +19,25 @@ I’m here to keep learning publicly, shipping consistently, and turning ideas i
 ---
 ###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
 
-I specialize in building high-performance **Progressive Web Apps (PWAs)** — fast, reliable, installable web experiences that feel native. My stack emphasizes React ecosystem tools for scalable, type-safe frontends, with flexible backends and strong attention to clean, modern UI/UX.
+I specialize in building high-performance **Progressive Web Apps (PWAs)** - fast, reliable, installable web experiences that feel native. My stack emphasizes React ecosystem tools for scalable, type-safe frontends, with flexible backends and strong attention to clean, modern UI/UX.
 
 | Layer          | Technology                          | Notes / Infrastructure                                                                 |
 |----------------|-------------------------------------|----------------------------------------------------------------------------------------|
-| **Frontend / Web** | React • Next.js • TypeScript       | Core for building responsive, SEO-friendly PWAs and web apps                           |
+| **Frontend / Web** | React • Next.js • TypeScript • Vite       | Core for building responsive, SEO-friendly PWAs and web apps                           |
 | **Styling & UI Components** | Tailwind CSS • shadcn/ui           | Utility-first styling + beautiful, accessible, customizable components                 |
 | **Mobile / Cross-Platform** | React Native • Expo                | For native-like mobile apps (with PWA overlap via web tech)                            |
 | **Backend / Database** | Supabase                           | PostgreSQL-powered relational backend with auth, storage, real-time                   |
-| **Backend / Real-time** | Firebase                           | NoSQL document storage, authentication, cloud functions, real-time sync               |
-| **UI/UX Inspiration & Design** | Mobbin                             | For discovering high-quality mobile/web UI patterns and flows                          |
+| **Backend / Real-time** | Firebase • Convex                           | NoSQL document storage, authentication, cloud functions, real-time sync               |
+| **UI/UX Inspiration & Design** | Mobbin • Figma                             | For discovering high-quality mobile/web UI patterns and flows                          |
 | **AI-Assisted Builders & Accelerated Prototyping** | Lovable.dev • Google AI Studio  • V0   | Exploring prompt-to-app tools (generate React + Tailwind + shadcn UIs from natural language) |
 
 ### Key Focus Areas
-- **Progressive Web Apps** — offline support, push notifications, home-screen installability  
-- **Modern UI/UX** — leveraging Tailwind + shadcn for rapid, consistent, accessible designs  
-- **Type Safety & Scalability** — TypeScript everywhere for maintainable code  
-- **AI-Augmented Development** — experimenting with tools that output React-based code to speed up ideation and prototyping  
+- **Progressive Web Apps** - offline support, push notifications, home-screen installability  
+- **Modern UI/UX** - leveraging Tailwind + shadcn for rapid, consistent, accessible designs  
+- **Type Safety & Scalability** - TypeScript everywhere for maintainable code  
+- **AI-Augmented Development** - experimenting with tools that output React-based code to speed up ideation and prototyping  
 
-Always open to expanding into new areas — currently deepening React ecosystem mastery while staying curious about AI-driven workflows.
+Always open to expanding into new areas -> currently deepening React ecosystem mastery while staying curious about AI-driven workflows.
 
 ---
 
@@ -61,7 +61,7 @@ Always open to expanding into new areas — currently deepening React ecosystem 
 #### 4. Nexus Architect (Legacy / Evolving) 🌐
 *Central repository for developer-specific intelligence.*  
 - **Stack:** React, TypeScript, Firebase  
-- **Status:** Foundation project — many learnings now feeding into Devus 2.0.
+- **Status:** Foundation project -> many learnings now feeding into Devus 2.0.
 
 #### 5. Ephemeral ✈️
 *Exclusive high-end travel app for luxury pop-up events.*  
