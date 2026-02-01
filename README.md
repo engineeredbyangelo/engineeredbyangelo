@@ -8,9 +8,13 @@ In **June 2025**, I made the pivot: from salesperson to solo developer.
 
 The mindset shift has been profound. Sales taught me to think in outcomes and relationships; building code is teaching me precision, patience, and systems thinking. I’m learning that progress comes less from perfect understanding upfront and more from shipping, breaking, and iterating.
 
-I learn best by building real projects from scratch or rapidly prototyping powerful user interfaces with tools like Lovable. Alongside that, I deepen fundamentals on platforms like **Brilliant.org** and practice by forking open-source repositories, studying their structure, and experimenting with improvements.
+I learn best by building real projects from scratch or rapidly prototyping powerful user interfaces with tools like Lovable. 
 
-Seven months in, I still feel like I’m just getting started, but every deploy reinforces the decision to make this change. I’m here to keep learning publicly, shipping consistently, and turning ideas into working products.
+Alongside that, I deepen fundamentals on platforms like **Brilliant.org** and practice by forking open-source repositories, studying their structure, and experimenting with improvements.
+
+Seven months in, I still feel like I’m just getting started, but every deploy reinforces the decision to make this change. 
+
+I’m here to keep learning publicly, shipping consistently, and turning ideas into working products.
 
 ---
 ###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
