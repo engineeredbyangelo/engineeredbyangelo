@@ -28,8 +28,8 @@ I specialize in building high-performance **Progressive Web Apps (PWAs)** - fast
 | **Mobile / Cross-Platform** | React Native • Expo                | For native-like mobile apps (with PWA overlap via web tech)                            |
 | **Backend / Database** | Supabase                           | PostgreSQL-powered relational backend with auth, storage, real-time                   |
 | **Backend / Real-time** | Firebase • Convex                           | NoSQL document storage, authentication, cloud functions, real-time sync               |
-| **UI/UX Inspiration & Design** | Mobbin • Figma                             | For discovering high-quality mobile/web UI patterns and flows                          |
-| **AI-Assisted Builders & Accelerated Prototyping** | Lovable.dev • Google AI Studio  • V0   | Exploring prompt-to-app tools (generate React + Tailwind + shadcn UIs from natural language) |
+| **UI/UX Inspiration & Design** | Mobbin • Figma • 21stdev                             | For discovering high-quality mobile/web UI patterns and flows                          |
+| **AI-Assisted & Accelerated Prototyping** | Lovable             | Exploring prompt-to-app tools (generate React + Tailwind + shadcn UIs from natural language) |
 
 ### Key Focus Areas
 - **Progressive Web Apps** - offline support, push notifications, home-screen installability  
