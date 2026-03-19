@@ -41,31 +41,50 @@ Always open to expanding into new areas -> currently deepening React ecosystem m
 
 ---
 
-### Featured Projects & Current Builds 🚀
+## Featured Projects & Current Builds 🚀
 
-#### 1. Spark Platform (Current Primary Build) 📱
-*The immersive micro-learning mobile app for tech enthusiasts.*  
-- **Stack:** React Native, TypeScript, Supabase  
-- **Mission:** Transforming complex tech concepts into bite-sized, interactive mobile experiences that make learning addictive and accessible.
+Here are the key projects I've launched or am actively building — from mobile learning to Web3 infrastructure and conceptual deep-tech.
 
-#### 2. Devus 2.0 🌐
-*Next-generation intelligence database and knowledge hub built for developers.*  
-- **Stack:** React, TypeScript, TailwindCSS, Shadcn/UI, Convex (or Firebase)  
-- **Focus:** A major evolution of the original Nexus Architect concept — cleaner UI with Shadcn components, improved backend performance, and smarter organization/querying of developer tools, patterns, resources, and insights.
+1. **Spark Platform** 📱  
+   Immersive micro-learning mobile app for tech enthusiasts. Bite-sized, interactive lessons that make complex concepts addictive and accessible.
 
-#### 3. Project Ascent 🌌
-*Kardashev Scale visualization & progression app.*  
-- **Stack:** React / Next.js, TypeScript, Shadcn, and Firebase for Backend
-- **Mission:** An educational and inspirational tool that maps humanity's (and hypothetical civilizations') energy mastery across the Kardashev Scale — from planetary control to stellar and galactic levels — with interactive visualizations, milestones, and forward-looking tech forecasts.
+   - **Stack**: React Native, Vite, Tailwind CSS, shadcn/ui, TypeScript, Supabase
+   - **Status**: Live / Actively maintained
+   - **Mission**: Democratize tech education through mobile-first, gamified experiences
 
-#### 4. Nexus Architect (Legacy / Evolving) 🌐
-*Central repository for developer-specific intelligence.*  
-- **Stack:** React, TypeScript, Firebase  
-- **Status:** Foundation project -> many learnings now feeding into Devus 2.0.
+2. **Devus 2.0** 🌐  
+   Next-generation intelligence database and knowledge hub built for developers — cleaner UI, smarter organization, and faster querying of tools, patterns, resources, and insights.
 
-#### 5. Ephemeral ✈️
-*Exclusive high-end travel app for luxury pop-up events.*  
-- **Focus:** Premium, elegant UI/UX with real-time event coordination, notifications, and seamless booking flows.
+   - **Stack**: React, TypeScript, Tailwind CSS, shadcn/ui, Convex (or Firebase)
+   - **Status**: In active development / Major evolution of Nexus Architect
+   - **Focus**: Evolved from the original Nexus concept with modern components, improved performance, and enhanced developer workflow
+
+3. **ChainHire** 🔗  
+   Non-custodial USDC escrow platform on Polygon for Web3 freelance work. Secure milestone-based payments with built-in reputation and dispute mechanisms.
+
+   - **Stack**: React 18, Vite 5, TypeScript 5 (strict), Tailwind CSS 3 + tailwindcss-animate, shadcn/ui (Radix + CVA), Framer Motion, @react-three/fiber & drei (pinned versions), react-router-dom 6, TanStack Query, react-hook-form + zod, wagmi 3 + viem 2 (Polygon config), @civic/auth-web3, Supabase (auth/DB/edge), Recharts
+   - **Key Features**:
+     - Milestone-based escrow smart contracts
+     - Configurable 7-day auto-release window
+     - On-chain reputation system
+     - Dispute resolution (2.5% arbitration fee)
+   - **Status**: In development
+   - **Mission**: Enable trustless, efficient freelance payments in Web3
+
+4. **Ascent Source (Proof of Concept)** 🌌  
+   Conceptual fusion energy technology platform reimagining decentralized, zero-carbon power generation and distribution at gigawatt scale.
+
+   - **Stack**: Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui  
+     **3D Engine**: React Three Fiber, Three.js
+   - **Status**: Proof-of-concept / Exploratory build
+   - **Mission**: Propose a fundamental shift to community-powered fusion reactors for global clean energy
+
+5. **Nexus Architect (Legacy)** 🌐  
+   Original central repository for developer-specific intelligence and resources.
+
+   - **Stack**: React, TypeScript, Firebase
+   - **Status**: Discontinued / Learnings migrated to Devus 2.0
+   - **Note**: Served as the foundation — many architectural and UX insights now live in newer projects
 
 ---
 
