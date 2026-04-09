@@ -79,12 +79,12 @@ Here are the key projects I've launched or am actively building — from mobile 
    - **Status**: Proof-of-concept / Exploratory build
    - **Mission**: Propose a fundamental shift to community-powered fusion reactors for global clean energy
 
-5. **Nexus Architect (Legacy)** 🌐  
-   Original central repository for developer-specific intelligence and resources.
+5. **SpecMirror** ✨    
+AI-powered platform that turns rough product ideas into production-ready technical specifications and PRDs in seconds. Bridges the gap between vague briefs and clear, implementation-ready documentation.
 
-   - **Stack**: React, TypeScript, Firebase
-   - **Status**: Discontinued / Learnings migrated to Devus 2.0
-   - **Note**: Served as the foundation — many architectural and UX insights now live in newer projects
+- **Stack**: React 18 + TypeScript 5, Vite 5, Tailwind CSS + shadcn/ui, Framer Motion, Supabase (Auth, DB, Edge Functions), Gemini 3 Pro (SpecAI), AES-256-GCM encryption
+- **Status**: In active development
+- **Mission**: Eliminate the product-engineering translation gap by generating specific, opinionated, and secure specs instantly
 
 ---
 
