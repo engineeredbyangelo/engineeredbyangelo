@@ -86,6 +86,13 @@ AI-powered platform that turns rough product ideas into production-ready technic
 - **Status**: In active development
 - **Mission**: Eliminate the product-engineering translation gap by generating specific, opinionated, and secure specs instantly
 
+6. **Astra Prototype One** ⌚
+Conceptual rugged tactical smartwatch built for alpine, search-and-rescue, and endurance missions — a scroll-exploded product study fusing hardware, terrain intelligence, and biometric sensing into one field instrument. Titanium chassis, multi-sensor HUD, and an OS designed around a single question: will it survive the day.
+   * Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion (scroll-driven animation), interactive exploded-view anatomy
+   * Live Concept: https://astraprototype.one/
+   * Status: Proof-of-concept / Exploratory build (early-access target 2028)
+   * Mission: Show what's possible when hardware, software, and terrain intelligence are engineered as one system for where signal ends
+
 ---
 
 ### 🧠 Personality & Work Ethic
