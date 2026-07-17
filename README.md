@@ -2,19 +2,21 @@
 
 ## About Me
 
+I build complex websites, applications, and software with AI-native tools and I understand what's happening under the hood.
+
 For over 3.5 years, I worked as an SDR, selling AI and software solutions to companies around the world. I loved the hustle of understanding customer needs, communicating value, and closing deals, but I increasingly felt the pull to create the technology I was pitching.
 
-In **June 2025**, I made the pivot: from salesperson to solo developer.
+In June 2025, I made the pivot: from salesperson to solo developer.
 
-The mindset shift has been profound. Sales taught me to think in outcomes and relationships; building code is teaching me precision, patience, and systems thinking. I’m learning that progress comes less from perfect understanding upfront and more from shipping, breaking, and iterating.
+Today, tools like Lovable, Cursor, and Claude let me move from idea to shipped product fast — but I don't just prompt and hope. I understand code architecture, I read and reason about what these tools generate, and I care about deploying clean, working code that holds up in production. 
 
-I learn best by building real projects from scratch or rapidly prototyping powerful user interfaces with tools like Lovable. 
+AI gives me the velocity; I own the direction, the structure, and the quality.
 
-Alongside that, I deepen fundamentals on platforms like **Brilliant.org** and practice by forking open-source repositories, studying their structure, and experimenting with improvements.
+The mindset shift has been profound. Sales taught me to think in outcomes and relationships; building software is teaching me precision, patience, and systems thinking. I'm learning that progress comes less from perfect understanding upfront and more from shipping, breaking, and iterating.
 
-Seven months in, I still feel like I’m just getting started, but every deploy reinforces the decision to make this change. 
+I learn best by building real projects from scratch and rapidly prototyping powerful interfaces. Alongside that, I deepen my fundamentals on platforms like Brilliant.org and study open-source repositories — forking them, reading their structure, and experimenting with improvements.
 
-I’m here to keep learning publicly, shipping consistently, and turning ideas into working products.
+A year in, I still feel like I'm just getting started though every deploy reinforces the decision to make this change. I'm here to keep learning publicly, shipping consistently, and turning ideas into working products.
 
 ---
 ###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
