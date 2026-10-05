@@ -6,7 +6,7 @@ I build production-minded B2B software, internal tools, and modern web applicati
 
 After 3.5+ years as an SDR selling AI and software solutions to teams around the world, I made the move from selling software to building it. In June 2025, I began teaching myself to code by shipping real products, studying production codebases, and solving increasingly complex technical problems in public.
 
-Today, I use tools such as **Claude Code, Cursor, Lovable, and GitHub** to move quickly from idea to working product. But AI is not a substitute for ownership.
+Today, I use tools such as **Claude Code, Lovable, and GitHub** to move quickly from idea to working product. But AI is not a substitute for ownership.
 
 I use AI to accelerate implementation, explore architecture, debug faster, write tests, find edge cases, and iterate on product decisions. I still own the product direction, system design, code review, security decisions, user experience, and the quality of what gets deployed.
 
