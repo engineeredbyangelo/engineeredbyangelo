@@ -1,111 +1,208 @@
-# Hi, I'm Angelo 👋🏾
+# Hi, I’m Angelo 👋🏾
 
-## About Me
+## AI-Native Product Builder
 
-I build complex websites, applications, and software with AI-native tools and I understand what's happening under the hood.
+I build production-minded B2B software, internal tools, and modern web applications using AI-native development workflows.
 
-For over 3.5 years, I worked as an SDR, selling AI and software solutions to companies around the world. I loved the hustle of understanding customer needs, communicating value, and closing deals, but I increasingly felt the pull to create the technology I was pitching.
+After 3.5+ years as an SDR selling AI and software solutions to teams around the world, I made the move from selling software to building it. In June 2025, I began teaching myself to code by shipping real products, studying production codebases, and solving increasingly complex technical problems in public.
 
-In June 2025, I made the pivot: from salesperson to solo developer.
+Today, I use tools such as **Claude Code, Cursor, Lovable, and GitHub** to move quickly from idea to working product. But AI is not a substitute for ownership.
 
-Today, tools like Lovable, Cursor, and Claude let me move from idea to shipped product fast — but I don't just prompt and hope. I understand code architecture, I read and reason about what these tools generate, and I care about deploying clean, working code that holds up in production. 
+I use AI to accelerate implementation, explore architecture, debug faster, write tests, find edge cases, and iterate on product decisions. I still own the product direction, system design, code review, security decisions, user experience, and the quality of what gets deployed.
 
-AI gives me the velocity; I own the direction, the structure, and the quality.
+> AI gives me leverage. Product judgment, technical reasoning, and shipping discipline are still the job.
 
-The mindset shift has been profound. Sales taught me to think in outcomes and relationships; building software is teaching me precision, patience, and systems thinking. I'm learning that progress comes less from perfect understanding upfront and more from shipping, breaking, and iterating.
-
-I learn best by building real projects from scratch and rapidly prototyping powerful interfaces. Alongside that, I deepen my fundamentals on platforms like Brilliant.org and study open-source repositories — forking them, reading their structure, and experimenting with improvements.
-
-A year in, I still feel like I'm just getting started though every deploy reinforces the decision to make this change. I'm here to keep learning publicly, shipping consistently, and turning ideas into working products.
-
----
-###  🛠️ Tech Stack (Focused on Progressive Web Apps & Modern UI/UX)
-
-I specialize in building high-performance **Progressive Web Apps (PWAs)** - fast, reliable, installable web experiences that feel native. My stack emphasizes React ecosystem tools for scalable, type-safe frontends, with flexible backends and strong attention to clean, modern UI/UX.
-
-| Layer          | Technology                          | Notes / Infrastructure                                                                 |
-|----------------|-------------------------------------|----------------------------------------------------------------------------------------|
-| **Frontend / Web** | React • Next.js • TypeScript • Vite       | Core for building responsive, SEO-friendly PWAs and web apps                           |
-| **Styling & UI Components** | Tailwind CSS • shadcn/ui           | Utility-first styling + beautiful, accessible, customizable components                 |
-| **Mobile / Cross-Platform** | React Native • Expo                | For native-like mobile apps (with PWA overlap via web tech)                            |
-| **Backend / Database** | Supabase                           | PostgreSQL-powered relational backend with auth, storage, real-time                   |
-| **Backend / Real-time** | Firebase • Convex                           | NoSQL document storage, authentication, cloud functions, real-time sync               |
-| **UI/UX Inspiration & Design** | Mobbin • Figma • 21stdev                             | For discovering high-quality mobile/web UI patterns and flows                          |
-| **AI-Assisted & Accelerated Prototyping** | Lovable             | Exploring prompt-to-app tools (generate React + Tailwind + shadcn UIs from natural language) |
-
-### Key Focus Areas
-- **Progressive Web Apps** - offline support, push notifications, home-screen installability  
-- **Modern UI/UX** - leveraging Tailwind + shadcn for rapid, consistent, accessible designs  
-- **Type Safety & Scalability** - TypeScript everywhere for maintainable code  
-- **AI-Augmented Development** - experimenting with tools that output React-based code to speed up ideation and prototyping  
-
-Always open to expanding into new areas -> currently deepening React ecosystem mastery while staying curious about AI-driven workflows.
+My sales background continues to shape how I build: I start with customer problems, focus on clear outcomes, and think about how a product will actually be sold, adopted, and maintained.
 
 ---
 
-## Featured Projects & Current Builds 🚀
+## What I Build
 
-Here are the key projects I've launched or am actively building — from mobile learning to Web3 infrastructure and conceptual deep-tech.
-
-1. **Spark Platform** 📱  
-   Immersive micro-learning mobile app for tech enthusiasts. Bite-sized, interactive lessons that make complex concepts addictive and accessible.
-
-   - **Stack**: React Native, Vite, Tailwind CSS, shadcn/ui, TypeScript, Supabase
-   - **Status**: Live / Actively maintained
-   - **Mission**: Democratize tech education through mobile-first, gamified experiences
-
-2. **Devus 2.0** 🌐  
-   Next-generation intelligence database and knowledge hub built for developers — cleaner UI, smarter organization, and faster querying of tools, patterns, resources, and insights.
-
-   - **Stack**: React, TypeScript, Tailwind CSS, shadcn/ui, Convex (or Firebase)
-   - **Status**: In active development / Major evolution of Nexus Architect
-   - **Focus**: Evolved from the original Nexus concept with modern components, improved performance, and enhanced developer workflow
-
-3. **ChainHire** 🔗  
-   Non-custodial USDC escrow platform on Polygon for Web3 freelance work. Secure milestone-based payments with built-in reputation and dispute mechanisms.
-
-   - **Stack**: React 18, Vite 5, TypeScript 5 (strict), Tailwind CSS 3 + tailwindcss-animate, shadcn/ui (Radix + CVA), Framer Motion, @react-three/fiber & drei (pinned versions), react-router-dom 6, TanStack Query, react-hook-form + zod, wagmi 3 + viem 2 (Polygon config), @civic/auth-web3, Supabase (auth/DB/edge), Recharts
-   - **Key Features**:
-     - Milestone-based escrow smart contracts
-     - Configurable 7-day auto-release window
-     - On-chain reputation system
-     - Dispute resolution (2.5% arbitration fee)
-   - **Status**: In development
-   - **Mission**: Enable trustless, efficient freelance payments in Web3
-
-4. **Ascent Source (Proof of Concept)** 🌌  
-   Conceptual fusion energy technology platform reimagining decentralized, zero-carbon power generation and distribution at gigawatt scale.
-
-   - **Stack**: Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui  
-     **3D Engine**: React Three Fiber, Three.js
-   - **Status**: Proof-of-concept / Exploratory build
-   - **Mission**: Propose a fundamental shift to community-powered fusion reactors for global clean energy
-
-5. **SpecMirror** ✨    
-AI-powered platform that turns rough product ideas into production-ready technical specifications and PRDs in seconds. Bridges the gap between vague briefs and clear, implementation-ready documentation.
-
-- **Stack**: React 18 + TypeScript 5, Vite 5, Tailwind CSS + shadcn/ui, Framer Motion, Supabase (Auth, DB, Edge Functions), Gemini 3 Pro (SpecAI), AES-256-GCM encryption
-- **Status**: In active development
-- **Mission**: Eliminate the product-engineering translation gap by generating specific, opinionated, and secure specs instantly
-
-6. **Astra Prototype One** ⌚
-Conceptual rugged tactical smartwatch built for alpine, search-and-rescue, and endurance missions — a scroll-exploded product study fusing hardware, terrain intelligence, and biometric sensing into one field instrument. Titanium chassis, multi-sensor HUD, and an OS designed around a single question: will it survive the day.
-   * Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion (scroll-driven animation), interactive exploded-view anatomy
-   * Live Concept: https://astraprototype.one/
-   * Status: Proof-of-concept / Exploratory build (early-access target 2028)
-   * Mission: Show what's possible when hardware, software, and terrain intelligence are engineered as one system for where signal ends
+- B2B SaaS products and workflow software
+- AI-assisted applications with human-reviewable outputs
+- Developer tools and GitHub-native workflow automation
+- Progressive web applications with modern, responsive UI
+- Internal tools, dashboards, and operational systems
+- Fast MVPs that can evolve into durable product foundations
 
 ---
 
-### 🧠 Personality & Work Ethic
+## Current Focus
 
-* **SDR Grit:** I bring a sales-hustle mentality to the terminal. I don't stop until the solution is shipped.
-* **AI-Augmented:** I treat AI as a Senior Pair Programmer, using custom system instructions to maintain **Senior-level code quality**.
-* **Product-Minded:** Because I've sold software, I build with a deep empathy for the user's "Jobs to be Done."
+I am especially interested in products at the intersection of:
+
+- **AI agents and developer workflows**
+- **Compliance, governance, and operational readiness**
+- **Policy-as-code and repository automation**
+- **B2B workflow software**
+- **AI-assisted product development**
+- **Rapid validation of niche SaaS ideas**
 
 ---
 
-### 📫 Let's Connect
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Vite |
+| **UI / Design Systems** | Tailwind CSS, shadcn/ui, Radix UI, Framer Motion |
+| **Backend / Data** | Supabase, PostgreSQL, Firebase, Convex |
+| **Authentication / Storage** | Supabase Auth, Supabase Storage, managed cloud services |
+| **AI Development Workflow** | Claude Code, Cursor, Lovable, GitHub, AI-assisted testing and debugging |
+| **Developer Tooling** | Git, GitHub, GitHub Apps, pull-request workflows, environment configuration |
+| **Mobile / Cross-Platform** | React Native, Expo |
+| **Product / UX Research** | Figma, Mobbin, 21st.dev |
+
+### How I Use AI in Development
+
+AI-native development is not just “prompting an app into existence.” My workflow combines rapid prototyping with code-level ownership.
+
+- Build initial product surfaces and user flows quickly
+- Move projects into GitHub-backed, local development workflows
+- Use Claude Code to inspect unfamiliar code, trace bugs, plan changes, and implement scoped features
+- Review generated code rather than treating it as a black box
+- Define edge cases, error states, permissions, validation, and security boundaries
+- Test flows manually and iteratively harden products before sharing them with users
+- Use Git and pull-request-style workflows to preserve a maintainable codebase
+
+I am particularly efficient when using Claude Code as a high-context engineering partner: breaking work into smaller implementation plans, understanding existing architecture, identifying failure modes, and moving from a polished interface to a more reliable application.
+
+---
+
+## Featured Builds
+
+### 1. AuditReady
+
+**AI-assisted compliance-readiness software for growing SaaS teams preparing for SOC 2, ISO 27001, and related frameworks.**
+
+AuditReady helps teams turn scattered policies, evidence, and business documentation into a clearer, more actionable readiness workflow. The goal is not to replace auditors, lawyers, or security professionals; it is to make the first pass of compliance preparation more structured, traceable, and efficient.
+
+**What I built and worked through:**
+
+- Compliance-readiness workflows for policies, controls, owners, tasks, and evidence
+- AI-assisted document analysis and gap identification
+- Structured findings designed for human review
+- Secure authentication, document handling, and multi-step product flows
+- Edge-case analysis, bug fixing, and application hardening with Claude Code
+- GitHub-synced workflow: rapid initial build in Lovable, then local development and refinement in VS Code / Claude Code
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, Supabase Auth, database/storage workflows, AI-assisted analysis
+
+**Focus:** Compliance operations, audit preparation, document intelligence, B2B SaaS workflows
+
+---
+
+### 2. ContextOps
+
+**Policy-as-code for AI coding agents.**
+
+ContextOps is a GitHub-native control layer for the instructions AI coding agents use across software repositories. Engineering teams increasingly rely on files such as `AGENTS.md`, `CLAUDE.md`, GitHub Copilot instructions, Cursor rules, and related configuration files to guide how AI works in their codebases.
+
+The problem: those instructions drift, become inconsistent across repositories, and are difficult to manage safely at scale.
+
+ContextOps gives those instructions a versioned, reviewable, repository-aware lifecycle.
+
+> Define engineering policy once, validate it against repository-specific instructions, and ship changes through reviewable pull requests.
+
+**Core concepts:**
+
+- Central policy management for AI-agent instructions
+- Repository-specific configuration and assignments
+- Versioning and approval-oriented change management
+- Validation and drift detection across repositories
+- GitHub App integration for controlled repository access
+- Reviewable diffs and pull-request-based changes
+- Audit logs and tenant-aware operational records
+- A fail-closed approach to ambiguous or risky sync states
+
+**Build approach:**
+
+- Designed and prototyped the product control plane in Lovable
+- Synced the codebase to GitHub early
+- Moved into VS Code and Claude Code for backend integration, GitHub App architecture, security testing, and edge-case handling
+- Focused on building the GitHub execution layer as tested, reviewable code rather than relying solely on prompt-generated functionality
+
+**Stack:** React, TypeScript, Tailwind CSS, shadcn/ui, Supabase, GitHub App architecture, GitHub API, webhook and pull-request workflows
+
+**Focus:** Developer experience, AI governance, repository automation, policy-as-code, secure GitHub integrations
+
+---
+
+### 3. SpecMirror
+
+**AI-powered product specification and PRD generation.**
+
+SpecMirror turns rough product ideas into clearer technical specifications, implementation plans, and product requirements documents. It is designed to reduce the gap between an early concept and the structured documentation needed to build it well.
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, Supabase, AI workflows, encrypted data handling
+
+**Focus:** Product discovery, requirements clarity, product-to-engineering translation
+
+---
+
+### 4. Spark Platform
+
+**A mobile-first micro-learning experience for people learning technology.**
+
+Spark explores how short, interactive lessons can make technical concepts more accessible and engaging for self-directed learners.
+
+**Stack:** React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Supabase
+
+**Focus:** Mobile learning, gamification, accessible technical education
+
+---
+
+### 5. Astra Prototype One
+
+**A scroll-driven product concept for a rugged tactical smartwatch.**
+
+Astra Prototype One is an exploratory product experience that combines industrial design, terrain intelligence, biometrics, and high-performance interface storytelling. It is a visual and technical exercise in building immersive, interactive product marketing experiences.
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion
+
+**Live Concept:** [astraprototype.one](https://astraprototype.one/)
+
+**Focus:** Interactive storytelling, premium UI, motion design, product visualization
+
+---
+
+## How I Work
+
+### Product-Minded
+
+I care about more than making an interface look polished. I think through the user, the workflow, the business model, the implementation constraints, and what needs to be true for a product to earn trust.
+
+### AI-Augmented, Not AI-Dependent
+
+I use Claude Code and other AI tools as force multipliers. They help me learn faster and execute faster, but I stay responsible for understanding the systems I deploy.
+
+### Sales-Informed
+
+My SDR background means I naturally think about customer pain, messaging, differentiation, objections, and outcomes. I build with an awareness that software needs to solve a real problem and be explainable to the people buying it.
+
+### Iterative by Default
+
+I learn by building. I would rather ship a focused, testable version, collect feedback, find weaknesses, and improve it than spend months trying to design a perfect product in isolation.
+
+---
+
+## Currently Learning and Building
+
+- Advanced React, Python, and TypeScript patterns
+- Secure GitHub App and webhook architecture
+- AI-agent orchestration and context management
+- Production-grade authentication, authorization, and multi-tenancy
+- B2B SaaS validation and go-to-market systems
+- Compliance and security workflow design
+- Better testing, debugging, and codebase-hardening practices with Claude Code
+
+---
+
+## Let’s Connect
+
+I am building in public, learning continuously, and exploring opportunities to collaborate on useful AI-enabled software, internal tools, developer workflows, and B2B SaaS products.
+---
+
 [**X**](https://x.com/builtbyangelo) • [**LinkedIn**](https://linkedin.com/in/angeloapplewhite) 
 
 ---
