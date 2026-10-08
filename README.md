@@ -16,7 +16,7 @@ My sales background continues to shape how I build: I start with customer proble
 
 ---
 
-## What I Build
+## What I'm Building
 
 - B2B SaaS products and workflow software
 - AI-assisted applications with human-reviewable outputs
