@@ -18,12 +18,12 @@ My sales background continues to shape how I build: I start with customer proble
 
 ## What I'm Building
 
-- B2B SaaS products and workflow software
-- AI-assisted applications with human-reviewable outputs
+- Full-stack web apps and PWAs in React, Next.js, and TypeScript, with Tailwind and shadcn/ui
+- Supabase-backed products: auth, Postgres, realtime, and the operational layer around them
+- AI-assisted applications where outputs stay human-reviewable and the code stays mine to fortify
+- Internal tools, dashboards, and workflow software for real ops, not slideware
 - Developer tools and GitHub-native workflow automation
-- Progressive web applications with modern, responsive UI
-- Internal tools, dashboards, and operational systems
-- Fast MVPs that can evolve into durable product foundations
+- Fast MVPs structured so they can become durable product foundations
 
 ---
 
