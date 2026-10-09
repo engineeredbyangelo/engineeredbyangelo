@@ -31,12 +31,11 @@ My sales background continues to shape how I build: I start with customer proble
 
 I am especially interested in products at the intersection of:
 
-- **AI agents and developer workflows**
-- **Compliance, governance, and operational readiness**
-- **Policy-as-code and repository automation**
-- **B2B workflow software**
-- **AI-assisted product development**
-- **Rapid validation of niche SaaS ideas**
+- AI agents and developer workflows, including context and tooling around how agents actually get used
+- Compliance, governance, and operational readiness for teams that need audit-ready systems
+- B2B workflow software and internal operational tools
+- AI-assisted product development where the code stays reviewable and maintainable
+- Rapid validation of niche SaaS ideas that can grow past the MVP
 
 ---
 
