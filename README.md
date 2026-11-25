@@ -1,41 +1,53 @@
 # Hi, I’m Angelo 👋🏾
 
-## AI-Native Product Builder
+## AI-Native Product Builder · Coding Agent Orchestrator
 
-I build production-minded B2B software, internal tools, and modern web applications using AI-native development workflows.
+I design and ship production software by orchestrating coding agents as high-context engineering partners—not as black-box generators.
+ 
+After 3.5+ years as an SDR selling AI and software solutions, I moved from selling software to building it. Since June 2025 I’ve been shipping real products while developing practical systems for working with coding agents at the code level.
 
-After 3.5+ years as an SDR selling AI and software solutions to teams around the world, I made the move from selling software to building it. In June 2025, I began teaching myself to code by shipping real products, studying production codebases, and solving increasingly complex technical problems in public.
+I use Claude Code (primarily), Lovable (UI/UX only), and GitHub-native workflows to move from idea to reviewed, maintainable code.
 
-Today, I use tools such as **Claude Code, Lovable, and GitHub** to move quickly from idea to working product. But AI is not a substitute for ownership.
+Agents accelerate implementation, architecture exploration, testing, and edge-case discovery. I still own product direction, system design, security boundaries, code review, and what actually ships.
 
-I use AI to accelerate implementation, explore architecture, debug faster, write tests, find edge cases, and iterate on product decisions. I still own the product direction, system design, code review, security decisions, user experience, and the quality of what gets deployed.
-
-> AI gives me leverage. Product judgment, technical reasoning, and shipping discipline are still the job.
-
-My sales background continues to shape how I build: I start with customer problems, focus on clear outcomes, and think about how a product will actually be sold, adopted, and maintained.
+> Agents give me leverage. Judgment, permissions, context design, and shipping discipline are still the job.
 
 ---
 
-## What I'm Building
+## How I Orchestrate Coding Agents
 
-- Full-stack web apps and PWAs in React, Next.js, and TypeScript, with Tailwind and shadcn/ui
+My approach treats agents as controllable teammates with clear roles, constraints, and feedback loops rather than open-ended prompt surfaces.
+
+- **Role separation**: Builder agents implement and fix; separate checker agents review diffs, enforce tests, and block regressions. They loop until lint and tests pass.
+- **Context hygiene**: Prefer short, decision-focused briefs over compacting failed attempts. Dead ends stay out of the next session.
+- **Permissions and hooks**: Instructions shape behavior; permissions and PreToolUse hooks enforce it. Deny rules and config blocks prevent agents from weakening tests or touching sensitive files.
+- **Reviewable output**: Agents produce diffs a human will read. Large, multi-concern PRs get split. Generated code is inspected, hardened, and owned.
+- **Skills and tooling discipline**: Start lean. Add skills or MCPs only after the same explanation is repeated. Knowing how to talk to the agent beats overloading it.
+- **GitHub-native control**: Agent instructions (`CLAUDE.md`, `AGENTS.md`, rules files) are treated as versioned policy. Drift is managed through reviewable changes, not ad-hoc files.
+
+This workflow is what lets me move fast on full-stack products while keeping the code reviewable and maintainable.
+
+---
+
+## What I’m Building
+
+- Full-stack web apps and PWAs in React, Next.js, and TypeScript (Tailwind + shadcn/ui)
 - Supabase-backed products: auth, Postgres, realtime, and the operational layer around them
-- AI-assisted applications where outputs stay human-reviewable and the code stays mine to fortify
-- Internal tools, dashboards, and workflow software for real ops, not slideware
-- Developer tools and GitHub-native workflow automation
+- GitHub-native developer tools and policy-as-code systems for AI coding agents
+- Internal tools and B2B workflow software that need clear ownership, auditability, and human review
 - Fast MVPs structured so they can become durable product foundations
 
 ---
 
 ## Current Focus
 
-I am especially interested in products at the intersection of:
+Products and systems at the intersection of:
 
-- AI agents and developer workflows, including context and tooling around how agents actually get used
-- Compliance, governance, and operational readiness for teams that need audit-ready systems
+- Coding-agent orchestration: multi-agent loops, context management, permissions, hooks, and reviewable agent workflows
+- Policy-as-code and governance for agent instructions across repositories
 - B2B workflow software and internal operational tools
-- AI-assisted product development where the code stays reviewable and maintainable
-- Rapid validation of niche SaaS ideas that can grow past the MVP
+- Compliance-readiness and audit-oriented systems that stay human-reviewable
+- AI-assisted product development where the code stays owned, tested, and maintainable
 
 ---
 
@@ -46,162 +58,115 @@ I am especially interested in products at the intersection of:
 | **Frontend** | React, Next.js, TypeScript, Vite |
 | **UI / Design Systems** | Tailwind CSS, shadcn/ui, Radix UI, Framer Motion |
 | **Backend / Data** | Supabase, PostgreSQL, Firebase, Convex |
-| **Authentication / Storage** | Supabase Auth, Supabase Storage, managed cloud services |
-| **AI Development Workflow** | Claude Code, Cursor, Lovable, GitHub, AI-assisted testing and debugging |
-| **Developer Tooling** | Git, GitHub, GitHub Apps, pull-request workflows, environment configuration |
+| **Authentication / Storage** | Supabase Auth, Supabase Storage |
+| **Agent Workflows** | Claude Code (VS Code), builder/checker loops, permissions & hooks, context management |
+| **Developer Tooling** | Git, GitHub, GitHub Apps, pull-request workflows, AGENTS.md / CLAUDE.md policy |
 | **Mobile / Cross-Platform** | React Native, Expo |
-| **Product / UX Research** | Figma, Mobbin, 21st.dev |
-
-### How I Use AI in Development
-
-AI-native development is not just “prompting an app into existence.” My workflow combines rapid prototyping with code-level ownership.
-
-- Build initial product surfaces and user flows quickly
-- Move projects into GitHub-backed, local development workflows
-- Use Claude Code to inspect unfamiliar code, trace bugs, plan changes, and implement scoped features
-- Review generated code rather than treating it as a black box
-- Define edge cases, error states, permissions, validation, and security boundaries
-- Test flows manually and iteratively harden products before sharing them with users
-- Use Git and pull-request-style workflows to preserve a maintainable codebase
-
-I am particularly efficient when using Claude Code as a high-context engineering partner: breaking work into smaller implementation plans, understanding existing architecture, identifying failure modes, and moving from a polished interface to a more reliable application.
+| **Product / UX** | Figma, Mobbin, 21st.dev |
 
 ---
 
 ## Featured Builds
 
-### 1. AuditReady
-
-**AI-assisted compliance-readiness software for growing SaaS teams preparing for SOC 2, ISO 27001, and related frameworks.**
-
-AuditReady helps teams turn scattered policies, evidence, and business documentation into a clearer, more actionable readiness workflow. The goal is not to replace auditors, lawyers, or security professionals; it is to make the first pass of compliance preparation more structured, traceable, and efficient.
-
-**What I built and worked through:**
-
-- Compliance-readiness workflows for policies, controls, owners, tasks, and evidence
-- AI-assisted document analysis and gap identification
-- Structured findings designed for human review
-- Secure authentication, document handling, and multi-step product flows
-- Edge-case analysis, bug fixing, and application hardening with Claude Code
-- GitHub-synced workflow: rapid initial build in Lovable, then local development and refinement in VS Code / Claude Code
-
-**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, Supabase Auth, database/storage workflows, AI-assisted analysis
-
-**Focus:** Compliance operations, audit preparation, document intelligence, B2B SaaS workflows
-
----
-
-### 2. ContextOps
-
+### 1. ContextOps
 **Policy-as-code for AI coding agents.**
 
-ContextOps is a GitHub-native control layer for the instructions AI coding agents use across software repositories. Engineering teams increasingly rely on files such as `AGENTS.md`, `CLAUDE.md`, GitHub Copilot instructions, Cursor rules, and related configuration files to guide how AI works in their codebases.
-
-The problem: those instructions drift, become inconsistent across repositories, and are difficult to manage safely at scale.
-
-ContextOps gives those instructions a versioned, reviewable, repository-aware lifecycle.
+A GitHub-native control layer for the instructions coding agents use (`AGENTS.md`, `CLAUDE.md`, Copilot instructions, Cursor rules, etc.). Those files drift and become inconsistent at scale. ContextOps gives them a versioned, reviewable, repository-aware lifecycle.
 
 > Define engineering policy once, validate it against repository-specific instructions, and ship changes through reviewable pull requests.
 
-**Core concepts:**
-
-- Central policy management for AI-agent instructions
+**Core capabilities:**
+- Central policy management for agent instructions
 - Repository-specific configuration and assignments
-- Versioning and approval-oriented change management
-- Validation and drift detection across repositories
-- GitHub App integration for controlled repository access
-- Reviewable diffs and pull-request-based changes
-- Audit logs and tenant-aware operational records
-- A fail-closed approach to ambiguous or risky sync states
+- Versioning, validation, and drift detection
+- GitHub App integration with controlled access
+- Reviewable diffs, pull-request workflows, and audit logs
+- Fail-closed behavior on ambiguous or risky sync states
 
-**Build approach:**
+**Build approach:** Prototyped the control plane in Lovable, then moved into VS Code + Claude Code for GitHub App architecture, security testing, webhook handling, and edge-case hardening. The execution layer was built as tested, reviewable code.
 
-- Designed and prototyped the product control plane in Lovable
-- Synced the codebase to GitHub early
-- Moved into VS Code and Claude Code for backend integration, GitHub App architecture, security testing, and edge-case handling
-- Focused on building the GitHub execution layer as tested, reviewable code rather than relying solely on prompt-generated functionality
+**Stack:** React, TypeScript, Tailwind CSS, shadcn/ui, Supabase, GitHub App, GitHub API, webhooks  
+**Focus:** AI governance, developer experience, policy-as-code, secure repository automation
 
-**Stack:** React, TypeScript, Tailwind CSS, shadcn/ui, Supabase, GitHub App architecture, GitHub API, webhook and pull-request workflows
+---
 
-**Focus:** Developer experience, AI governance, repository automation, policy-as-code, secure GitHub integrations
+### 2. AuditReady
+**AI-assisted compliance-readiness software for growing SaaS teams.**
+
+Turns scattered policies, evidence, and documentation into a structured readiness workflow for SOC 2, ISO 27001, and related frameworks. Outputs stay human-reviewable; the tool supports the first pass rather than replacing auditors or lawyers.
+
+**What I built and worked through:**
+- Compliance workflows for policies, controls, owners, tasks, and evidence
+- AI-assisted document analysis and gap identification with structured findings
+- Secure auth, document handling, and multi-step product flows
+- Edge-case analysis and application hardening with Claude Code
+- GitHub-synced workflow: rapid initial build in Lovable, then local refinement in VS Code / Claude Code
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase  
+**Focus:** Compliance operations, audit preparation, document intelligence, B2B SaaS
 
 ---
 
 ### 3. SpecMirror
-
 **AI-powered product specification and PRD generation.**
 
-SpecMirror turns rough product ideas into clearer technical specifications, implementation plans, and product requirements documents. It is designed to reduce the gap between an early concept and the structured documentation needed to build it well.
+Turns plain-language product briefs into structured technical specifications and PRDs. Designed to reduce the gap between an early concept and the documentation needed to build it well.
 
-**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, Supabase, AI workflows, encrypted data handling
-
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, Supabase, encrypted sharing  
 **Focus:** Product discovery, requirements clarity, product-to-engineering translation
 
 ---
 
 ### 4. Spark Platform
+**Mobile-first micro-learning experience for people learning technology.**
 
-**A mobile-first micro-learning experience for people learning technology.**
+Short, interactive lessons aimed at making technical concepts more accessible for self-directed learners.
 
-Spark explores how short, interactive lessons can make technical concepts more accessible and engaging for self-directed learners.
-
-**Stack:** React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Supabase
-
+**Stack:** React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Supabase  
 **Focus:** Mobile learning, gamification, accessible technical education
 
 ---
 
 ### 5. Astra Prototype One
+**Scroll-driven product concept for a rugged tactical smartwatch.**
 
-**A scroll-driven product concept for a rugged tactical smartwatch.**
+Exploratory product experience combining industrial design, terrain intelligence, biometrics, and high-performance interface storytelling.
 
-Astra Prototype One is an exploratory product experience that combines industrial design, terrain intelligence, biometrics, and high-performance interface storytelling. It is a visual and technical exercise in building immersive, interactive product marketing experiences.
-
-**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion
-
-**Live Concept:** [astraprototype.one](https://astraprototype.one/)
-
-**Focus:** Interactive storytelling, premium UI, motion design, product visualization
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion  
+**Live:** [astraprototype.one](https://astraprototype.one/)  
+**Focus:** Interactive storytelling, premium UI, motion design
 
 ---
 
 ## How I Work
 
-### Product-Minded
+**Agent-orchestrated, not agent-dependent.**  
+I design the roles, constraints, and feedback loops. Agents implement and review inside those boundaries. I stay responsible for the systems that ship.
 
-I care about more than making an interface look polished. I think through the user, the workflow, the business model, the implementation constraints, and what needs to be true for a product to earn trust.
+**Production-minded.**  
+Interfaces are the start. I care about ownership, edge cases, permissions, test integrity, security boundaries, and whether a human can still understand and maintain the code.
 
-### AI-Augmented, Not AI-Dependent
+**Sales-informed.**  
+My SDR background keeps me focused on real customer problems, clear outcomes, and software that can actually be explained, adopted, and maintained.
 
-I use Claude Code and other AI tools as force multipliers. They help me learn faster and execute faster, but I stay responsible for understanding the systems I deploy.
-
-### Sales-Informed
-
-My SDR background means I naturally think about customer pain, messaging, differentiation, objections, and outcomes. I build with an awareness that software needs to solve a real problem and be explainable to the people buying it.
-
-### Iterative by Default
-
-I learn by building. I would rather ship a focused, testable version, collect feedback, find weaknesses, and improve it than spend months trying to design a perfect product in isolation.
+**Iterative by default.**  
+Ship a focused, testable version. Find the weaknesses. Harden it. Repeat. Learning happens in the code and in the agent loops, not in isolation.
 
 ---
 
-## Currently Learning and Building
+## Currently Building and Exploring
 
-- Advanced React, Python, and TypeScript patterns
-- Secure GitHub App and webhook architecture
-- AI-agent orchestration and context management
-- Production-grade authentication, authorization, and multi-tenancy
-- B2B SaaS validation and go-to-market systems
-- Compliance and security workflow design
-- Better testing, debugging, and codebase-hardening practices with Claude Code
+- Multi-agent orchestration patterns (builder/checker, context hygiene, permission models)
+- Secure GitHub App and webhook architecture for agent control planes
+- Policy-as-code systems for coding-agent instructions
+- Production-grade auth, authorization, and multi-tenancy
+- Testing, debugging, and codebase-hardening practices with coding agents
+- B2B SaaS and internal tools that need both speed and reviewability
 
 ---
 
 ## Let’s Connect
 
-I am building in public, learning continuously, and exploring opportunities to collaborate on useful AI-enabled software, internal tools, developer workflows, and B2B SaaS products.
----
+I’m building in public and exploring collaboration on AI-enabled software, developer workflow tools, agent orchestration systems, and B2B products.
 
-[**X**](https://x.com/builtbyangelo) • [**LinkedIn**](https://linkedin.com/in/angeloapplewhite) 
-
----
+[**X**](https://x.com/builtbyangelo) • [**LinkedIn**](https://linkedin.com/in/angeloapplewhite)
