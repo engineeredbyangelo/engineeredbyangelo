@@ -1,6 +1,6 @@
 # Hi, I’m Angelo 👋🏾
 
-## AI-Native Product Builder · Coding Agent Orchestrator
+## AI-Native Developer · Coding Agents · Agentic Workflows
 
 I design and ship production software by orchestrating coding agents as high-context engineering partners—not as black-box generators.
  
