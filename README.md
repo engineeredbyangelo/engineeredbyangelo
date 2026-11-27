@@ -2,7 +2,7 @@
 
 ## AI-Native Developer · Coding Agents · Agentic Workflows
 
-I design and ship production software by orchestrating coding agents as high-context engineering partners—not as black-box generators.
+I design and ship production software by orchestrating coding agents as high-context engineering partners, not as black-box generators.
  
 After 3.5+ years as an SDR selling AI and software solutions, I moved from selling software to building it. Since June 2025 I’ve been shipping real products while developing practical systems for working with coding agents at the code level.
 
